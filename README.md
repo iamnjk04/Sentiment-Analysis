@@ -1,6 +1,7 @@
 # Sentiment-Analysis
 A sentiment analysis project based on Sentiment140 dataset to recognize the emotions(happy/sad) from the given tweets
 # Project Organization
+
 ├── LICENSE
 ├── Makefile           <- Makefile with commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
